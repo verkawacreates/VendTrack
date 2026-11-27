@@ -1,0 +1,6 @@
+{
+  "name": "VendTrack",
+  "description": "Enterprise vending machine fleet telemetry, coil planogram inventory, sales ledger, restock routing, and maintenance operations hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
